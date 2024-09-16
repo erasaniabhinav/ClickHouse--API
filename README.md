@@ -1,7 +1,9 @@
 FastAPI ClickHouse Project
+
 This project demonstrates how to use FastAPI to connect to a ClickHouse database hosted in ClickHouse Cloud. It allows data access and manipulation through FastAPI functions, with the ability to view and interact with the data via a local server or Postman.
 
 Features
+
 FastAPI as the web framework
 ClickHouse as the database
 CRUD (Create, Read, Update, Delete) operations on ClickHouse data
