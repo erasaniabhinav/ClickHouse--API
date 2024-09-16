@@ -15,4 +15,4 @@ Python 3.8+
 FastAPI
 Uvicorn (ASGI server to run FastAPI)
 ClickHouse driver for Python (clickhouse-connect)
-Postman (optional, for testing API endpoints)
+Postman (optional, for testing API end
